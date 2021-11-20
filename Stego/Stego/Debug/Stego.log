@@ -1,0 +1,42 @@
+﻿  Main.cpp
+c:\users\арина\desktop\projects\второй семестр\основы информационной безопасности\stego\stego\main.cpp(45): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note:  см. объявление "scanf"
+c:\users\арина\desktop\projects\второй семестр\основы информационной безопасности\stego\stego\main.cpp(86): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note:  см. объявление "fopen"
+c:\users\арина\desktop\projects\второй семестр\основы информационной безопасности\stego\stego\main.cpp(88): warning C4996: 'fileno': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fileno. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(2456): note:  см. объявление "fileno"
+c:\users\арина\desktop\projects\второй семестр\основы информационной безопасности\stego\stego\main.cpp(94): warning C4996: 'filelength': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _filelength. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\corecrt_io.h(486): note:  см. объявление "filelength"
+c:\users\арина\desktop\projects\второй семестр\основы информационной безопасности\stego\stego\main.cpp(116): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note:  см. объявление "fopen"
+c:\users\арина\desktop\projects\второй семестр\основы информационной безопасности\stego\stego\main.cpp(152): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\арина\desktop\projects\второй семестр\основы информационной безопасности\stego\stego\main.cpp(151): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note:  см. объявление "strcpy"
+c:\users\арина\desktop\projects\второй семестр\основы информационной безопасности\stego\stego\main.cpp(153): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(93): note:  см. объявление "strcat"
+c:\users\арина\desktop\projects\второй семестр\основы информационной безопасности\stego\stego\main.cpp(179): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\арина\desktop\projects\второй семестр\основы информационной безопасности\stego\stego\main.cpp(246): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+c:\users\арина\desktop\projects\второй семестр\основы информационной безопасности\stego\stego\main.cpp(272): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note:  см. объявление "strcpy"
+c:\users\арина\desktop\projects\второй семестр\основы информационной безопасности\stego\stego\main.cpp(276): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(93): note:  см. объявление "strcat"
+c:\users\арина\desktop\projects\второй семестр\основы информационной безопасности\stego\stego\main.cpp(280): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(93): note:  см. объявление "strcat"
+c:\users\арина\desktop\projects\второй семестр\основы информационной безопасности\stego\stego\main.cpp(284): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note:  см. объявление "fopen"
+c:\users\арина\desktop\projects\второй семестр\основы информационной безопасности\stego\stego\main.cpp(285): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note:  см. объявление "fopen"
+c:\users\арина\desktop\projects\второй семестр\основы информационной безопасности\stego\stego\main.cpp(395): warning C4018: >=: несоответствие типов со знаком и без знака
+c:\users\арина\desktop\projects\второй семестр\основы информационной безопасности\stego\stego\main.cpp(364): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note:  см. объявление "fopen"
+c:\users\арина\desktop\projects\второй семестр\основы информационной безопасности\stego\stego\main.cpp(368): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note:  см. объявление "strcpy"
+c:\users\арина\desktop\projects\второй семестр\основы информационной безопасности\stego\stego\main.cpp(437): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note:  см. объявление "scanf"
+c:\users\арина\desktop\projects\второй семестр\основы информационной безопасности\stego\stego\main.cpp(439): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note:  см. объявление "fopen"
+c:\users\арина\desktop\projects\второй семестр\основы информационной безопасности\stego\stego\main.cpp(456): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note:  см. объявление "scanf"
+c:\users\арина\desktop\projects\второй семестр\основы информационной безопасности\stego\stego\main.cpp(66): warning C4717: manager: рекурсия на всех путях выполнения, функция вызовет переполнение стека
+  Stego.vcxproj -> C:\Users\Арина\Desktop\Projects\Второй семестр\Основы информационной безопасности\Stego\Debug\Stego.exe
+  Stego.vcxproj -> C:\Users\Арина\Desktop\Projects\Второй семестр\Основы информационной безопасности\Stego\Debug\Stego.pdb (Partial PDB)
